@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem Ipsum is simply dummy text of the printing ",
+        "price":0,
+        "category":"Story",
+        "image":"https://img.freepik.com/free-vector/realistic-book-lover-composition-with-stack-colorful-books-with-eyeglasses-home-plants-tea-cup-vector-illustration_1284-77312.jpg?t=st=1717134097~exp=1717137697~hmac=a75eb50f4eca5ff64dd11fed8fa70abc8e533dadec1c8471da997064422fe30c&w=826"
+    },
+    {
+        "id":1,
+        "name":"Sports Book",
+        "title":"Lorem Ipsum is simply dummy text of the printing ",
+        "price":0,
+        "category":"Sports",
+        "image":"https://img.freepik.com/free-vector/realistic-book-lover-composition-with-stack-colorful-books-with-eyeglasses-home-plants-tea-cup-vector-illustration_1284-77312.jpg?t=st=1717134097~exp=1717137697~hmac=a75eb50f4eca5ff64dd11fed8fa70abc8e533dadec1c8471da997064422fe30c&w=826"
+    },
+    {
+        "id":1,
+        "name":"Entertainment Book",
+        "title":"Lorem Ipsum is simply dummy text of the printing ",
+        "price":0,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-vector/realistic-book-lover-composition-with-stack-colorful-books-with-eyeglasses-home-plants-tea-cup-vector-illustration_1284-77312.jpg?t=st=1717134097~exp=1717137697~hmac=a75eb50f4eca5ff64dd11fed8fa70abc8e533dadec1c8471da997064422fe30c&w=826"
+    },
+    {
+        "id":1,
+        "name":"Entertainment Book",
+        "title":"Lorem Ipsum is simply dummy text of the printing ",
+        "price":0,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-vector/realistic-book-lover-composition-with-stack-colorful-books-with-eyeglasses-home-plants-tea-cup-vector-illustration_1284-77312.jpg?t=st=1717134097~exp=1717137697~hmac=a75eb50f4eca5ff64dd11fed8fa70abc8e533dadec1c8471da997064422fe30c&w=826"
+    },
+    {
+        "id":1,
+        "name":"Entertainment Book",
+        "title":"Lorem Ipsum is simply dummy text of the printing ",
+        "price":0,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-vector/realistic-book-lover-composition-with-stack-colorful-books-with-eyeglasses-home-plants-tea-cup-vector-illustration_1284-77312.jpg?t=st=1717134097~exp=1717137697~hmac=a75eb50f4eca5ff64dd11fed8fa70abc8e533dadec1c8471da997064422fe30c&w=826"
+    },
+    {
+        "id":1,
+        "name":"Entertainment Book",
+        "title":"Lorem Ipsum is simply dummy text of the printing ",
+        "price":0,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-vector/realistic-book-lover-composition-with-stack-colorful-books-with-eyeglasses-home-plants-tea-cup-vector-illustration_1284-77312.jpg?t=st=1717134097~exp=1717137697~hmac=a75eb50f4eca5ff64dd11fed8fa70abc8e533dadec1c8471da997064422fe30c&w=826"
+    }
+]
